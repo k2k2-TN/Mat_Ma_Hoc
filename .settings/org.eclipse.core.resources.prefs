@@ -1,0 +1,13 @@
+eclipse.preferences.version=1
+encoding//src/main/java/vn/iotstar/config/Decode.java=UTF-8
+encoding//src/main/java/vn/iotstar/config/test.java=UTF-8
+encoding//src/main/java/vn/iotstar/controller/admin/CategoryController.java=UTF-8
+encoding//src/main/java/vn/iotstar/controller/admin/ProductController.java=UTF-8
+encoding//src/main/java/vn/iotstar/controller/web/BillControl.java=UTF-8
+encoding//src/main/java/vn/iotstar/controller/web/ChangePassWord.java=UTF-8
+encoding//src/main/java/vn/iotstar/controller/web/DatHangControl.java=UTF-8
+encoding//src/main/java/vn/iotstar/dao/impl/CartDaoImpl.java=UTF-8
+encoding//src/main/java/vn/iotstar/dao/impl/CartItemDaoImpl.java=UTF-8
+encoding//src/main/java/vn/iotstar/dao/impl/CategoryDaoImpl.java=UTF-8
+encoding//src/main/java/vn/iotstar/dao/impl/ProductDaoImpl.java=UTF-8
+encoding//src/main/java/vn/iotstar/dao/impl/SellerDaoImpl.java=UTF-8
